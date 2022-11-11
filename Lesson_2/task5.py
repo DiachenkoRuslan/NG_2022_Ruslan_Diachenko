@@ -1,6 +1,4 @@
 inputList  = list(map(int, input("Enter elements of list: ").split(",")))
-print(inputList)
-
 
 print("Smallest number in list: ", min(inputList))
 print("Biggest number in list: ", max(inputList))
